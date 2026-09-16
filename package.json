@@ -1,0 +1,26 @@
+{
+  "name": "javascript-fundamentals",
+  "version": "1.0.0",
+  "description": "JavaScript Fundamentals - All lesson topics, examples, and answers",
+  "type": "module",
+  "scripts": {
+    "test:01": "node 01-variables/variables.js",
+    "test:02": "node 02-data-types/data-types.js",
+    "test:03": "node 03-operators-conversion/operators.js",
+    "test:04": "node 04-strings/strings.js",
+    "test:05": "node 05-comparisons-decisions/decisions.js",
+    "test:06": "node 06-numbers-math/math.js",
+    "test:07": "node 07-arrays-loops/arrays-loops.js",
+    "test:08": "node 08-objects-missing-data/objects.js",
+    "test:09": "node 09-functions/functions.js",
+    "test:10": "node 10-arrow-callbacks/arrow-callbacks.js",
+    "test:11": "node 11-array-methods/array-methods.js",
+    "test:12": "node 12-destructuring-spread/destructuring-spread.js",
+    "test:13": "node 13-modules/main.js",
+    "test:14": "node 14-async-promises/async-promises.js",
+    "test:15": "node 15-fetching-data/fetch-data.js"
+  },
+  "keywords": ["javascript", "fundamentals", "es6", "tutorial"],
+  "author": "Karl",
+  "license": "MIT"
+}
